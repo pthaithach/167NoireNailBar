@@ -2518,6 +2518,8 @@ body{
    font-weight: 300;
    padding: 16px 0 16px 0;
    letter-spacing: 4px;
+   font-family: initial;
+   
  }
 .title-small, .title-small-list{
   font-size: 18px;
@@ -2553,7 +2555,10 @@ body{
   .title-big{
     padding: 0 0 10px 0;
     font-size: 25px;
-    border-bottom: 2px solid #dee2e6!important;
+    border-bottom: 2px solid #583f36!important;
+    font-weight: 600;
+    font-family: initial;
+    
   }
 }
 /*
