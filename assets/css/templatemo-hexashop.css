@@ -2518,7 +2518,7 @@ body{
    font-weight: 300;
    padding: 16px 0 16px 0;
    letter-spacing: 4px;
-   font-family: initial;
+   font-family: monospace;
    
  }
 .title-small, .title-small-list{
@@ -2533,6 +2533,10 @@ body{
   font-weight: bold;
   padding-left: 14px;
 }
+.width-price{
+  width: 40px;
+}
+
 .color-price{
   color: #583f36;
 }
@@ -2557,7 +2561,7 @@ body{
     font-size: 25px;
     border-bottom: 2px solid #583f36!important;
     font-weight: 600;
-    font-family: initial;
+    font-family: monospace;
     
   }
 }
